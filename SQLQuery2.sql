@@ -1,0 +1,2 @@
+﻿ALTER TABLE Users
+ALTER COLUMN PasswordHash VARCHAR(255);
